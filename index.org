@@ -1,0 +1,64 @@
+#+title: the lowball
+
+#+KEYWORDS: the lowball, lowball, politics
+#+LANGUAGE: english
+#+DESCRIPTION: the lowball, a political game that combines elements of chance and strategy.
+#+HTML_HEAD: <meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script> <script>   window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-6D0151J5EX');</script>
+
+a political game that combines elements of chance and strategy.
+
+* the lowball
+** Acknowledgement
+ * United States of America
+ * People's Republic of China
+ * United Kingdom
+ * Russian Federation
+ * French Republic
+ * Federal Republic of Germany
+ * Islamic Republic of Iran
+ * Vatican City State
+ * State of Israel
+ * Greece
+ * Republic of Finland
+ * State of Kuwait
+ * Kingdom of Sweden
+ * Denmark
+ * Republic of Italy
+ * Republic of India
+ * Republic of South Africa
+ * Commonwealth of Australia
+ * Kingdom of Saudi Arabia
+ * Japan
+ * Switzerland
+ * New Zealand
+
+#+BEGIN_EXAMPLE
+ * the lowball
+ * /players/
+ * the lowball, origins                                                 :card:
+ * Where Merlin Played                                                  :card:
+ * Chance in the House of Fate                                          :card:
+ * A RIGOROUS GEOMETRY                                                  :card:
+ * Concentric Circles                                                   :card:
+ * earthyl pigments                                                     :card:
+ * Earthly Gestures                                                     :card:
+ * Color Scales                                                         :card:
+#+END_EXAMPLE
+
+* Latest
+ * [[https://github.com/jadsaklawi/the-lowball/commits/main][Log]]
+ * [[https://diff.blog/jadsaklawi/][diff.blog]]
+ * [[https://github.com/jadsaklawi/the-lowball/commits.atom][RSS/Atom]]
+ * [[https://github.com/jadsaklawi/the-lowball/archive/refs/heads/main.zip][the-lowball-main.zip]]
+
+* Issues
+ * [[https://github.com/jadsaklawi/the-lowball/issues][Issues]]
+
+* Keywords
+politics, the lowball
+
+* Author
+
+*Jad Saklawi* [[mailto:jad.saklawi@gmail.com][<jad.saklawi@gmail.com]]>
+
+ * Twitter: [[https://twitter.com/jadsaklawi][@jadsaklawi]]

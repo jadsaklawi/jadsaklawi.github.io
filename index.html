@@ -1,127 +1,365 @@
-<html>
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="english" xml:lang="english">
 <head>
-<meta charset="utf-8">
+<!-- 2022-09-02 Fri 10:26 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>the lowball</title>
-<meta name="description" content="the lowball, a political game that combines elements of chance and strategy.">
-<meta http-equiv="content-language" content="en">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="keywords" content="the lowball, lowball, politics">
-<meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" />
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Jad Saklawi" />
+<meta name="description" content="the lowball, a political game that combines elements of chance and strategy."
+ />
+<meta name="keywords" content="the lowball, lowball, politics" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
-  gtag('config', 'G-6D0151J5EX');
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script> <script>   window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-6D0151J5EX');</script>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2019 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
 </script>
 </head>
 <body>
-  <h1 id="the-lowball">the lowball</h1>
-<p>a political game that combines elements of chance and strategy.</p>
+<div id="content">
+<h1 class="title">the lowball</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
 <ul>
-<li class="has-line-data" data-line-start="4" data-line-end="17"><a href="https://github.com/jadsaklawi/the-lowball/">the lowball</a>
+<li><a href="#org5fe8bbf">1. the lowball</a>
 <ul>
-<li class="has-line-data" data-line-start="5" data-line-end="6"><pre><code>Acknowledgement
-  </code></pre>
-<ul>
-<li class="has-line-data" data-line-start="6" data-line-end="7">United States of America</li>
-<li class="has-line-data" data-line-start="7" data-line-end="8">People’s Republic of China</li>
-<li class="has-line-data" data-line-start="8" data-line-end="9">United Kingdom</li>
-<li class="has-line-data" data-line-start="9" data-line-end="10">Russian Federation</li>
-<li class="has-line-data" data-line-start="10" data-line-end="11">French Republic</li>
-<li class="has-line-data" data-line-start="11" data-line-end="12">Federal Republic of Germany</li>
-<li class="has-line-data" data-line-start="12" data-line-end="13">Islamic Republic of Iran</li>
-<li class="has-line-data" data-line-start="13" data-line-end="14">Vatican City State</li>
-<li class="has-line-data" data-line-start="14" data-line-end="15">State of Israel</li>
-<li class="has-line-data" data-line-start="15" data-line-end="16">Greece</li>
-<li class="has-line-data" data-line-start="16" data-line-end="17">Republic of Finland</li>
-<li class="has-line-data" data-line-start="17" data-line-end="18">State of Kuwait</li>
-<li class="has-line-data" data-line-start="18" data-line-end="19">Kingdom of Sweden</li>
-<li class="has-line-data" data-line-start="19" data-line-end="20">Denmark</li>
-<li class="has-line-data" data-line-start="20" data-line-end="21">Republic of Italy</li>
-<li class="has-line-data" data-line-start="21" data-line-end="22">Republic of India</li>
-<li class="has-line-data" data-line-start="22" data-line-end="23">Republic of South Africa</li>
-<li class="has-line-data" data-line-start="23" data-line-end="24">Commonwealth of Australia</li>
-<li class="has-line-data" data-line-start="24" data-line-end="25">Kingdom of Saudi Arabia</li>
-<li class="has-line-data" data-line-start="25" data-line-end="26">Japan</li>
-<li class="has-line-data" data-line-start="26" data-line-end="27">Switzerland</li>
-<li class="has-line-data" data-line-start="27" data-line-end="29">New Zealand</li>
-</ul>
-
-</li>
-<li class="has-line-data" data-line-start="6" data-line-end="7">
-<pre><code>the lowball, origins                              :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="7" data-line-end="8">
-<pre><code> Where Merlin Played                              :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="8" data-line-end="9">
-<pre><code> Chance in the House of Fate                      :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="9" data-line-end="10">
-<pre><code> A RIGOROUS GEOMETRY                              :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="10" data-line-end="11">
-<pre><code> Concentric Circles                               :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="11" data-line-end="12">
-<pre><code> earthyl pigments                                 :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="12" data-line-end="13">
-<pre><code> Earthly Gestures                                 :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="13" data-line-end="14">
-<pre><code> Color Scales                                     :card:
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="14" data-line-end="15">
-<pre><code> /players/
-</code></pre>
-</li>
-<li class="has-line-data" data-line-start="15" data-line-end="17">
-<pre><code> the lowball
-</code></pre>
-</li>
+<li><a href="#orga37e17c">1.1. Acknowledgement</a></li>
 </ul>
 </li>
+<li><a href="#org0de6247">2. Latest</a></li>
+<li><a href="#org58cfcfa">3. Issues</a></li>
+<li><a href="#org08384ca">4. Keywords</a></li>
+<li><a href="#org7bca513">5. Author</a></li>
+</ul>
+</div>
+</div>
+<p>
+a political game that combines elements of chance and strategy.
+</p>
+
+<div id="outline-container-org5fe8bbf" class="outline-2">
+<h2 id="org5fe8bbf"><span class="section-number-2">1</span> the lowball</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-orga37e17c" class="outline-3">
+<h3 id="orga37e17c"><span class="section-number-3">1.1</span> Acknowledgement</h3>
+<div class="outline-text-3" id="text-1-1">
+<ul class="org-ul">
+<li>United States of America</li>
+<li>People's Republic of China</li>
+<li>United Kingdom</li>
+<li>Russian Federation</li>
+<li>French Republic</li>
+<li>Federal Republic of Germany</li>
+<li>Islamic Republic of Iran</li>
+<li>Vatican City State</li>
+<li>State of Israel</li>
+<li>Greece</li>
+<li>Republic of Finland</li>
+<li>State of Kuwait</li>
+<li>Kingdom of Sweden</li>
+<li>Denmark</li>
+<li>Republic of Italy</li>
+<li>Republic of India</li>
+<li>Republic of South Africa</li>
+<li>Commonwealth of Australia</li>
+<li>Kingdom of Saudi Arabia</li>
+<li>Japan</li>
+<li>Switzerland</li>
+<li>New Zealand</li>
 </ul>
 
-<h2 class="code-line" data-line-start=40 data-line-end=41 ><a id="Latest_40"></a>Latest</h2>
-<ul>
-<li class="has-line-data" data-line-start="41" data-line-end="42"><a href="https://github.com/jadsaklawi/the-lowball/commits/main">Log</a></li>
-<li class="has-line-data" data-line-start="43" data-line-end="44"><a href="https://diff.blog/jadsaklawi/">diff.blog</a></li>
-<li class="has-line-data" data-line-start="44"
-    data-line-end="45"><a href="https://github.com/jadsaklawi/the-lowball/commits.atom">RSS/Atom</a></li>
-<li class="has-line-data" data-line-start="42" data-line-end="43"><a href="https://github.com/jadsaklawi/the-lowball/archive/refs/heads/main.zip">the-lowball-main.zip</a></li>
+<pre class="example">
+* the lowball
+* /players/
+* the lowball, origins                                                 :card:
+* Where Merlin Played                                                  :card:
+* Chance in the House of Fate                                          :card:
+* A RIGOROUS GEOMETRY                                                  :card:
+* Concentric Circles                                                   :card:
+* earthyl pigments                                                     :card:
+* Earthly Gestures                                                     :card:
+* Color Scales                                                         :card:
+</pre>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org0de6247" class="outline-2">
+<h2 id="org0de6247"><span class="section-number-2">2</span> Latest</h2>
+<div class="outline-text-2" id="text-2">
+<ul class="org-ul">
+<li><a href="https://github.com/jadsaklawi/the-lowball/commits/main">Log</a></li>
+<li><a href="https://diff.blog/jadsaklawi/">diff.blog</a></li>
+<li><a href="https://github.com/jadsaklawi/the-lowball/commits.atom">RSS/Atom</a></li>
+<li><a href="https://github.com/jadsaklawi/the-lowball/archive/refs/heads/main.zip">the-lowball-main.zip</a></li>
 </ul>
+</div>
+</div>
 
-<h2 id="issues">Issues</h2>
-<ul><li class="has-line-data" data-line-start="41" data-line-end="42"><a href="https://github.com/jadsaklawi/the-lowball/issues">Issues</a></li></ul>
-
-<h2 id="keywords">Keywords</h2>
-<p>politics, the lowball</p>
-
-<h2 class="code-line" data-line-start=96 data-line-end=97 >Observations</h2>
-<ul>
-<li class="has-line-data" data-line-start="98" data-line-end="99"><a href="https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf">Observations On Sound</a></li>
-<li class="has-line-data" data-line-start="99" data-line-end="100"><a href="https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Swinging%20Gait%2C%20Non%20Causes/Swinging%20Gait%2C%20Non%20Causes.pdf">Swinging Gait, Non Causes</a></li>
-<li class="has-line-data" data-line-start="100" data-line-end="102"><a href="https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Of%20Waves/Of%20Waves.pdf">Of Waves</a></li>
+<div id="outline-container-org58cfcfa" class="outline-2">
+<h2 id="org58cfcfa"><span class="section-number-2">3</span> Issues</h2>
+<div class="outline-text-2" id="text-3">
+<ul class="org-ul">
+<li><a href="https://github.com/jadsaklawi/the-lowball/issues">Issues</a></li>
 </ul>
+</div>
+</div>
 
-<h2 id="author">Author</h2>
-<p>👤 <strong>Jad Saklawi</strong> &lt;<a href="mailto:jad.saklawi@gmail.com" class="email">jad.saklawi@gmail.com</a>&gt;</p>
- <ul>
-<li class="has-line-data" data-line-start="24" data-line-end="25">Twitter: <a href="https://twitter.com/jadsaklawi">@jadsaklawi</a></li>
+<div id="outline-container-org08384ca" class="outline-2">
+<h2 id="org08384ca"><span class="section-number-2">4</span> Keywords</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+politics, the lowball
+</p>
+</div>
+</div>
+
+<div id="outline-container-org7bca513" class="outline-2">
+<h2 id="org7bca513"><span class="section-number-2">5</span> Author</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+<b>Jad Saklawi</b> <a href="mailto:jad.saklawi@gmail.com">&lt;jad.saklawi@gmail.com</a>&gt;
+</p>
+
+<ul class="org-ul">
+<li>Twitter: <a href="https://twitter.com/jadsaklawi">@jadsaklawi</a></li>
 </ul>
-
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+Last updated: 2022-09-02 Fri 10:26
+</div>
 </body>
 </html>
