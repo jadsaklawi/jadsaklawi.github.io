@@ -57,6 +57,10 @@ a political game that combines elements of chance and strategy.
 * Keywords
 politics, the lowball
 
+* Other
+** Observations
+ * [[https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf][Observations on Sound]]
+ * [[https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Of%20Waves/Of%20Waves.pdf][Of Waves]]
 * Author
 
 *Jad Saklawi* [[mailto:jad.saklawi@gmail.com][<jad.saklawi@gmail.com]]>
