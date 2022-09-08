@@ -8,6 +8,33 @@
 a political game that combines elements of chance and strategy.
 
 * the lowball
+** Players
+*** Participants in the game.
+
+#+BEGIN_EXAMPLE
+ * Space
+  * Earth, Universes
+ * Space
+  * Humans, Souls, Zodiacs
+ * Space
+  * Spheres                                                            :fronts:
+ * Space
+  * Sovereigns, Universes
+#+END_EXAMPLE
+** Decks
+   - A deck fits with an ordered list of labels of players.
+    * labels are symbols of the players (Flag, Coat of Arms, Logo, et cetera).
+   - A deck can be of different types:
+    * Sovereign states
+    * Non-state actors
+    * Companies
+    * Foundations
+    * Sub-state actors
+      - Agencies
+      - Militaries
+      - Departments
+      - Legislative
+    * Individuals
 ** Acknowledgement
  * United States of America
  * People's Republic of China
