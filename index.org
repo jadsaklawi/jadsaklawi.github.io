@@ -5,12 +5,12 @@
 #+DESCRIPTION: the lowball, a political game that combines elements of chance and strategy.
 #+HTML_HEAD: <meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script> <script>   window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-6D0151J5EX');</script>
 
-a political game that combines elements of chance and strategy.
 
 * the lowball
+** Definition
+   - A political game that combines elements of chance and strategy.
 ** Players
-*** Participants in the game.
-
+   - Participants in the game.
 #+BEGIN_EXAMPLE
  * Space
   * Earth, Universes
@@ -73,7 +73,8 @@ a political game that combines elements of chance and strategy.
 #+END_EXAMPLE
 
 * Latest
- * [[https://github.com/jadsaklawi/the-lowball/commits/main][Log]]
+ * [[https://github.com/jadsaklawi/the-lowball/][the lowball]]
+   * [[https://github.com/jadsaklawi/the-lowball/commits/main][Log]] 
  * [[https://diff.blog/jadsaklawi/][diff.blog]]
  * [[https://github.com/jadsaklawi/the-lowball/commits.atom][RSS/Atom]]
  * [[https://github.com/jadsaklawi/the-lowball/archive/refs/heads/main.zip][the-lowball-main.zip]]
