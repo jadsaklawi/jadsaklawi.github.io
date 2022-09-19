@@ -1,12 +1,12 @@
-#+title: the lowball
+#+title: The Lowball
 
-#+KEYWORDS: the lowball, lowball, politics
+#+KEYWORDS: The Lowball, lowball, politics
 #+LANGUAGE: english
-#+DESCRIPTION: the lowball, a political game that combines elements of chance and strategy.
+#+DESCRIPTION: The Lowball, a political game that combines elements of chance and strategy.
 #+HTML_HEAD: <meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script> <script>   window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-6D0151J5EX');</script>
 
 
-* the lowball
+* The Lowball
 ** Definition
    - A political game that combines elements of chance and strategy.
 ** Players
@@ -35,45 +35,35 @@
       - Departments
       - Legislative
     * Individuals
-** Acknowledgement
- * United States of America
- * People's Republic of China
- * United Kingdom
- * Russian Federation
- * French Republic
- * Federal Republic of Germany
- * Islamic Republic of Iran
- * Vatican City State
- * State of Israel
- * Greece
- * Republic of Finland
- * State of Kuwait
- * Kingdom of Sweden
- * Denmark
- * Republic of Italy
- * Republic of India
- * Republic of South Africa
- * Commonwealth of Australia
- * Kingdom of Saudi Arabia
- * Japan
- * Switzerland
- * New Zealand
 
 #+BEGIN_EXAMPLE
- * the lowball
- * /players/
- * the lowball, origins                                                 :card:
- * Where Merlin Played                                                  :card:
- * Chance in the House of Fate                                          :card:
- * A RIGOROUS GEOMETRY                                                  :card:
- * Concentric Circles                                                   :card:
- * earthyl pigments                                                     :card:
- * Earthly Gestures                                                     :card:
- * Color Scales                                                         :card:
+ * The Lowball
+ * Epoch                                                                :card:
+ * The Dot                                                              :card:
+ * The Table                                                            :card:
+ * The New Pangaea                                                      :card:
+ * Players
 #+END_EXAMPLE
+** Acknowledgement
+  * United States of America
+  * Russian Federation
+  * United Kingdom
+  * New Zealand
+  * People's Republic of China
+  * Kingdom of Saudi Arabia
+  * Islamic Republic of Iran
+  * Vatican
+  * State of Israel
+  * French Republic
+  * Japan
+  * Republic of India
+  * State of Kuwait
+  * Kingdom of Sweden
+  * Federal Republic of Germany
+  * Commonwealth of Australia
 
 * Latest
- * [[https://github.com/jadsaklawi/the-lowball/][the lowball]]
+ * [[https://github.com/jadsaklawi/the-lowball/][The Lowball]]
    * [[https://github.com/jadsaklawi/the-lowball/commits/main][Log]] 
  * [[https://diff.blog/jadsaklawi/][diff.blog]]
  * [[https://github.com/jadsaklawi/the-lowball/commits.atom][RSS/Atom]]
@@ -83,7 +73,7 @@
  * [[https://github.com/jadsaklawi/the-lowball/issues][Issues]]
 
 * Keywords
-politics, the lowball
+Politics, the Lowball
 
 * Other
 ** Observations
