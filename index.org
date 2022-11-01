@@ -41,7 +41,7 @@
  * Epoch                                                                :card:
  * The Dot                                                              :card:
  * The Table                                                            :card:
- * The New Pangaea                                                      :card:
+ * Pangaea                                                              :card:
  * Players
 #+END_EXAMPLE
 ** Acknowledgement
