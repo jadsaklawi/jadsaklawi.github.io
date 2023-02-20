@@ -62,23 +62,9 @@
   * Federal Republic of Germany
   * Commonwealth of Australia
 
-* Latest
- * [[https://github.com/jadsaklawi/the-lowball/][The Lowball]]
-   * [[https://github.com/jadsaklawi/the-lowball/commits/main][Log]] 
- * [[https://diff.blog/jadsaklawi/][diff.blog]]
- * [[https://github.com/jadsaklawi/the-lowball/commits.atom][RSS/Atom]]
- * [[https://github.com/jadsaklawi/the-lowball/archive/refs/heads/main.zip][the-lowball-main.zip]]
-
-* Issues
- * [[https://github.com/jadsaklawi/the-lowball/issues][Issues]]
-
 * Keywords
 Politics, the Lowball
 
-* Other
-** Observations
- * [[https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Observations%20On%20Sound/Observations%20On%20Sound.pdf][Observations on Sound]]
- * [[https://raw.githubusercontent.com/jadsaklawi/the-lowball/main/notes/Observations/Of%20Waves/Of%20Waves.pdf][Of Waves]]
 * Author
 
 *Jad Saklawi* [[mailto:jad.saklawi@gmail.com][<jad.saklawi@gmail.com]]>
