@@ -42,6 +42,9 @@
  * The Dot                                                              :card:
  * The Table                                                            :card:
  * Pangaea                                                              :card:
+ * Pigments                                                             :card:
+ * Chance in the House of Fate                                          :card:
+ * Color Scales                                                         :card:
  * Players
 #+END_EXAMPLE
 ** Acknowledgement
