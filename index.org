@@ -49,13 +49,13 @@
 #+END_EXAMPLE
 ** Acknowledgement
   * United States of America
-  * Russian Federation
   * United Kingdom
-  * New Zealand
+  * Russian Federation
   * People's Republic of China
   * Kingdom of Saudi Arabia
   * Islamic Republic of Iran
   * Vatican
+  * New Zealand
   * State of Israel
   * French Republic
   * Japan
@@ -63,6 +63,8 @@
   * State of Kuwait
   * Kingdom of Sweden
   * Federal Republic of Germany
+  * Republic of Korea
+  * Canada
   * Commonwealth of Australia
 
 * Keywords
