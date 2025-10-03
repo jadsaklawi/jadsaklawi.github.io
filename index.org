@@ -17,15 +17,15 @@
  * Space
   * Humans, Souls, Zodiacs
  * Space
-  * Spheres                                                            :fronts:
+  * Spheres                                                            :Fronts:
  * Space
-  * Sovereigns, Universes
+  * Sovereign Entities
 #+END_EXAMPLE
 ** Decks
    - A deck fits with an ordered list of labels of players.
     * labels are symbols of the players (Flag, Coat of Arms, Logo, et cetera).
    - A deck can be of different types:
-    * Sovereign states
+    * Sovereign Entities
     * Non-state actors
     * Companies
     * Foundations
@@ -45,11 +45,15 @@
  * Pigments                                                             :card:
  * Chance in the House of Fate                                          :card:
  * Color Scales                                                         :card:
+ * A New Geometry                                                       :card:
+ * Intervals                                                            :card:
+ * Positional Spots                                                     :card:
+ * Battle of the First Defense Forward
  * Players
 #+END_EXAMPLE
 ** Acknowledgement
   * United States of America
-  * United Kingdom
+  * United Kingdom of Great Britain and Northern Ireland
   * Russian Federation
   * People's Republic of China
   * Kingdom of Saudi Arabia
