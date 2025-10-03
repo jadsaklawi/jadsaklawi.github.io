@@ -1,3 +1,4 @@
+#+TITLE: The Lowball
 #+KEYWORDS: The Lowball, Lowball, Politics
 #+LANGUAGE: English
 #+DESCRIPTION: The Lowball, a political game that combines elements of chance and strategy.
@@ -14,8 +15,6 @@
   * Earth, Universes
  * Space
   * Humans, Souls, Zodiacs
- * Space
-  * Spheres                                                            :Fronts:
  * Space
   * Sovereign Entities
 #+END_EXAMPLE
