@@ -7,9 +7,9 @@
 
 * The Lowball
 ** Definition
-   - A political game that combines elements of chance and strategy.
+   - A Political Game that combines elements of chance and strategy.
 ** Players
-   - Participants in the game.
+   - Participants in the Game.
 #+BEGIN_EXAMPLE
  * Space
   * Earth, Universes
@@ -19,9 +19,9 @@
   * Sovereign Entities
 #+END_EXAMPLE
 ** Decks
-   - A deck fits with an ordered list of labels of players.
-    * labels are symbols of the players (Flag, Coat of Arms, Logo, et cetera).
-   - A deck can be of different types:
+   - A Deck fits with an ordered list of labels of Players.
+    * Labels are symbols of the Players (Flag, Coat of Arms, Logo, et cetera).
+   - A Deck can be of different types:
     * Sovereign Entities
     * Non-state actors
     * Companies
