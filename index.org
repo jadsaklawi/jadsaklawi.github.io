@@ -1,1 +1,80 @@
+#+KEYWORDS: The Lowball, Lowball, Politics
+#+LANGUAGE: English
+#+DESCRIPTION: The Lowball, a political game that combines elements of chance and strategy.
+#+HTML_HEAD: <meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script> <script>   window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-6D0151J5EX');</script>
+
+
+* The Lowball
+** Definition
+   - A political game that combines elements of chance and strategy.
+** Players
+   - Participants in the game.
+#+BEGIN_EXAMPLE
+ * Space
+  * Earth, Universes
+ * Space
+  * Humans, Souls, Zodiacs
+ * Space
+  * Spheres                                                            :Fronts:
+ * Space
+  * Sovereign Entities
+#+END_EXAMPLE
+** Decks
+   - A deck fits with an ordered list of labels of players.
+    * labels are symbols of the players (Flag, Coat of Arms, Logo, et cetera).
+   - A deck can be of different types:
+    * Sovereign Entities
+    * Non-state actors
+    * Companies
+    * Foundations
+    * Sub-state actors
+      - Agencies
+      - Militaries
+      - Departments
+      - Legislative
+    * Individuals
+
+#+BEGIN_EXAMPLE
+ * The Lowball
+ * Epoch                                                                :card:
+ * The Dot                                                              :card:
+ * The Table                                                            :card:
+ * Pangaea                                                              :card:
+ * Pigments                                                             :card:
+ * Chance in the House of Fate                                          :card:
+ * Color Scales                                                         :card:
+ * A New Geometry                                                       :card:
+ * Intervals                                                            :card:
+ * Positional Spots                                                     :card:
+ * Battle of the First Defense Forward
+ * Players
+#+END_EXAMPLE
+** Acknowledgement
+  * United States of America
+  * United Kingdom of Great Britain and Northern Ireland
+  * Russian Federation
+  * People's Republic of China
+  * Kingdom of Saudi Arabia
+  * Islamic Republic of Iran
+  * Vatican
+  * New Zealand
+  * State of Israel
+  * French Republic
+  * Japan
+  * Republic of India
+  * State of Kuwait
+  * Kingdom of Sweden
+  * Federal Republic of Germany
+  * Republic of Korea
+  * Canada
+  * Commonwealth of Australia
+
+* Keywords
+Politics, The Lowball
+
+* Author
+
+*Jad Saklawi* [[mailto:jad.saklawi@gmail.com][<jad.saklawi@gmail.com]]>
+
+ * Twitter: [[https://twitter.com/jadsaklawi][@jadsaklawi]]
 
