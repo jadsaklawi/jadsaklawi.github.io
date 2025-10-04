@@ -7,33 +7,35 @@
 
 * The Lowball
 ** Definition
-   - A Political Game that combines elements of chance and strategy.
+   - A Political Game that combines elements of Chance and Strategy.
 ** Players
    - Participants in the Game.
-#+BEGIN_EXAMPLE
+#+BEGIN_SRC
  * Space
   * Earth, Universes
  * Space
   * Humans, Souls, Zodiacs
  * Space
   * Sovereign Entities
-#+END_EXAMPLE
+#+END_SRC
 ** Decks
+#+BEGIN_SRC
    - A Deck fits with an ordered list of labels of Players.
      * Labels are symbols of the Players (Flag, Coat of Arms, Logo, et cetera).
    - A Deck can be of different types:
      * Sovereign Entities
-     * Non-state actors
+     * Non-State Actors
      * Companies
      * Foundations
-     * Sub-state actors
+     * Sub-State Actors
        - Agencies
        - Militaries
        - Departments
        - Legislative
      * Individuals
+#+END_SRC
 ** The Lowball
-#+BEGIN_EXAMPLE
+#+BEGIN_SRC
 The Lowball
  * Epoch                                                                :card:
  * The Dot                                                              :card:
@@ -47,7 +49,7 @@ The Lowball
  * Positional Spots                                                     :card:
  * Battle of the First Defense Forward
  * Players
-#+END_EXAMPLE
+#+END_SRC
 ** Acknowledgement
   * United States of America
   * United Kingdom of Great Britain and Northern Ireland
