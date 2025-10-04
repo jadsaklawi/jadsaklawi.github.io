@@ -38,7 +38,7 @@
 #+BEGIN_SRC
 The Lowball
  * Epoch                                                                :card:
- * The Dot                                                              :card:
+ * LINK_START(The Dot/The Dot.html)The DotLINK_END                                                              :card:
  * The Table                                                            :card:
  * Pangaea                                                              :card:
  * Pigments                                                             :card:
@@ -70,7 +70,7 @@ The Lowball
   * Commonwealth of Australia
 
 * Keywords
-Politics, Diplomacy, Military, The Lowball
+Politics, Diplomacy, Military, The Lowball.
 
 * Author
 
