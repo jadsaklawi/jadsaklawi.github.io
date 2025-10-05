@@ -38,7 +38,7 @@
 #+BEGIN_SRC
 The Lowball
  * Epoch                                                                :card:
- * LINK_START(The Dot/The Dot.html)The DotLINK_END                                                              :card:
+ * [[The Dot/The Dot.html][The Dot]]                                                              :card:
  * The Table                                                            :card:
  * Pangaea                                                              :card:
  * Pigments                                                             :card:
