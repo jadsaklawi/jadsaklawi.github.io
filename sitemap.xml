@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://jadsaklawi.github.io/</loc>
-    <lastmod>2025-10-04</lastmod>
-  </url>
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com
+-->
+<url>
+  <loc>https://jadsaklawi.github.io/</loc>
+  <lastmod>2025-10-05T09:51:08+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>
+    https://jadsaklawi.github.io/The%20Dot/The%20Dot.html
+  </loc>
+  <lastmod>2025-10-05T09:51:08+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 </urlset>
