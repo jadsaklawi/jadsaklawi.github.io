@@ -2,7 +2,7 @@
 #+KEYWORDS: The Lowball, Lowball, Politics, Diplomacy, Military
 #+LANGUAGE: English
 #+DESCRIPTION: The Lowball, a political game that combines elements of chance and strategy.
-#+HTML_HEAD: <script async data-id="101494697" src="//static.getclicky.com/js"></script>
+#+HTML_HEAD: <script async data-id="101494697" src="//static.getclicky.com/js"></script><noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/101494697ns.gif" /></p></noscript>
 
 * The Lowball
 ** Definition
