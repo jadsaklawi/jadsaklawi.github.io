@@ -55,6 +55,7 @@ The Lowball
   * Russian Federation
   * People's Republic of China
   * Kingdom of Saudi Arabia
+  * State of Qatar
   * Islamic Republic of Iran
   * Vatican City State
   * New Zealand
