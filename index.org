@@ -82,6 +82,7 @@ The Lowball
   * Republic of India
   * State of Kuwait
   * United Arab Emirates
+  * Republic of Lebanon
   * Kingdom of Sweden
   * Federal Republic of Germany
   * Republic of Korea
