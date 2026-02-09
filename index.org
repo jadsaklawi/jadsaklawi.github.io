@@ -12,7 +12,7 @@
 :PROPERTIES:
 :CUSTOM_ID: Definition
 :END:
-   - A Political Game that combines elements of Chance and Strategy.
+   - A Political Game that Combines Elements of Chance and Strategy.
 ** Players
 :PROPERTIES:
 :CUSTOM_ID: Players
@@ -31,9 +31,9 @@
 :CUSTOM_ID: Decks
 :END:
 #+BEGIN_SRC
-   - A Deck fits with an ordered list of labels of Players.
-     * Labels are symbols of the Players (Flag, Coat of Arms, Logo, et cetera).
-   - A Deck can be of different types:
+   - A Deck Fits with an Ordered List of Labels of Players.
+     * Labels are Symbols of The Players (Flag, Coat of Arms, Logo, et cetera).
+   - A Deck can be of Different Types:
      * Sovereign Entities
      * Non-State Actors
      * Companies
