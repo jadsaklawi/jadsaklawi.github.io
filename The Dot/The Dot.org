@@ -1,0 +1,325 @@
+#+TITLE:The Dot
+#+KEYWORDS: The Lowball, Lowball, Politics, Diplomacy, Military, The Dot
+#+HTML_HEAD: <meta name="google-site-verification" content="V04ybF9ZI7TE9SR7Z0nXWf0h-HAVPGhlRfefUice9rw" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-6D0151J5EX"></script> <script>   window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'G-6D0151J5EX');</script>
+
+* The Dot
+:PROPERTIES:
+:CUSTOM_ID: The Dot_
+:END:
+** The Dot
+:PROPERTIES:
+:CUSTOM_ID: The Dot
+:END:
+#+BEGIN_SRC
+ The Dot
+    Entity
+     Right
+      Space
+       Peace
+      Space
+       Entities
+     Left
+      Space
+       War
+      Space
+       Entities
+    Time
+     Space
+      The Dot
+       Degrees
+     Time
+      Degrees
+#+END_SRC
+
+** Reciprocal Accords
+:PROPERTIES:
+:CUSTOM_ID: Reciprocal Accords
+:END:
+#+BEGIN_SRC
+   Reciprocal Accords
+    Jad
+     Space
+      United States of America
+      Russian Federation
+      People's Republic of China
+      French Republic
+      Federal Republic of Germany
+      Canada
+      United Kingdom of Great Britain and Northern Ireland
+      Commonwealth of Australia
+      Japan
+      Republic of India
+     Space
+      Vatican City State
+      Kingdom of Saudi Arabia
+      Islamic Republic of Iran
+     Space
+      Right
+     Space
+      Diplomacy
+       Channels
+     Time
+      Space
+       Politics
+        Results
+         Politics
+          Heavens
+          The Dog
+      Time
+       Degrees
+#+END_SRC
+** Overtures
+:PROPERTIES:
+:CUSTOM_ID: Overtrues
+:END:
+#+BEGIN_SRC
+   Overtures
+    Jad
+     Space
+      Islamic Republic of Iran
+     Space
+      United States of America
+     Space
+      Right
+     Space
+      Politics
+       Results
+     Time
+      Space
+       Politics
+        Results
+         Degrees
+      Time
+       Degrees
+#+END_SRC
+** The Keys
+:PROPERTIES:
+:CUSTOM_ID: The Keys
+:END:
+#+BEGIN_SRC
+   The Keys
+    Jad
+     Space
+      Vatican City State
+     Space
+      Universes
+     Space
+      Right
+     Space
+      Keys
+       Degrees
+        Keys
+         Degrees
+          Universes
+     Space
+      Politics
+       Keys
+     Space
+      Diplomacy
+       Channels
+        Space
+         Sovereign Entities
+         Universes
+        Space
+         Heavens
+     Time
+      Space
+       Diplomacy
+        Degrees
+         Politics
+          Keys
+      Time
+       Degrees
+#+END_SRC
+** Soft Guerrilla Power
+:PROPERTIES:
+:CUSTOM_ID: Soft Guerrilla Power
+:END:
+#+BEGIN_SRC
+   Soft Guerrilla Power
+    Jad
+     Space
+      Islamic Republic of Iran
+      Hezbollah
+     Space
+      United States of America
+      State of Israel
+     Space
+      Right
+     Space
+      Maps
+       Dimensions
+        Degrees
+     Space
+      Diplomacy
+       Channels
+     Space
+      Politics
+       Results
+        Degrees
+     Time
+      Space
+       Diplomacy
+        Degrees
+         Politics
+          Results
+           Degrees
+      Time
+       Degrees
+#+END_SRC       
+** Soft Axis Power
+:PROPERTIES:
+:CUSTOM_ID: Soft Axis Power
+:END:
+#+BEGIN_SRC
+  Soft Axis Power
+    Jad
+     Space
+      Russian Federation
+      Islamic Republic of Iran
+      Democratic People's Republic of Korea
+     Space
+      United States of America
+      State of Israel
+     Space
+      Right
+     Space
+      Maps
+       Dimensions
+        Degrees
+     Space
+      Diplomacy
+       Channels
+     Space
+      Politics
+       Results
+        Degrees
+     Time
+      Space
+       Diplomacy
+        Degrees
+         Politics
+          Results
+           Degrees
+      Time
+       Degrees
+#+END_SRC
+** Instruments of Islam
+:PROPERTIES:
+:CUSTOM_ID: Instruments of Islam
+:END:
+#+BEGIN_SRC
+   Instruments of Islam
+    Army of Islam
+     صك الاسلام;Instrument of Islam;
+      Crescent
+       A Symbol of Islam.
+      Left
+       السيف;Sword;
+        Conquest
+         Spread by the Sword.
+          War
+      Right
+       القرآن;The Quran;
+        Teachings.;Jihad;Trajectories;Revelations;
+         Peace
+    Instrument of Islam
+     Jad
+      Space
+       Kingdom of Saudi Arabia
+       Islamic Republic of Iran
+      Space
+       Army of Islam
+      Space
+       Left
+      Space
+       The Dog
+      Space
+       War
+#+END_SRC
+** Scepter of Christianity
+:PROPERTIES:
+:CUSTOM_ID: Scepter of Christianity
+:END:
+#+BEGIN_SRC
+   Scepter of Christianity
+    Jad
+     Space
+      Vatican City State
+     Space
+      Russian Federation
+      United of States of America
+     Space
+      Right
+     Space
+      Holy See
+       Diplomacy;Politics;
+        The Keys
+         The Dog
+#+END_SRC
+** Army of God
+:PROPERTIES:
+:CUSTOM_ID: Army of God
+:END:
+#+BEGIN_SRC
+   Army of God
+    Space
+     Scepter of Christianity
+     Instruments of Islam
+    Space
+     United Kingdom of Great Britain and Northern Ireland
+    Space
+     Left
+    Space
+     The Dog
+    Space
+     War
+#+END_SRC
+** A New Geometry
+:PROPERTIES:
+:CUSTOM_ID: A New Geometry
+:END:
+#+BEGIN_SRC
+   A New Geometry
+    Triangle
+     Islamic Republic of Iran
+     Russian Federation
+     People's Republic of China
+    Square
+     United Kingdom of Great Britain and Northern Ireland
+     Japan
+     Republic of India
+     United States of America
+    Circle Sets
+     Center
+      Jad
+     Sets
+      Politics
+       Heavens
+       The Dog
+       The Dot
+     Circle Sets
+      Directions
+       Right
+        Peace
+       Left
+        War
+      Starting Dots
+       Reciprocal Accords
+       Army of God
+      Forward Gestures
+       Battle of the First Defense Forward
+      Increments
+       A New Geometry
+        Degrees
+#+END_SRC
+** Words (Notes)
+  * The Dot, a Political Game, is inspired by the [[https://en.wikipedia.org/wiki/Great_Seal_of_the_United_States][Great Seal of the United States]].
+    * Directions
+      * Right
+	* Peace
+      * Left
+	* War
+  * The Dot is written in Space Time Language (STL).
+    * STL was invented by Jad in 2022.
+    * The Dot was initially conceived in 2012, written in STL in 2022.
